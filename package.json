@@ -1,0 +1,22 @@
+{
+  "name": "jsonserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kirti493/jsonserver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kirti493/jsonserver/issues"
+  },
+  "homepage": "https://github.com/Kirti493/jsonserver#readme",
+  "dependencies": {
+    "json-server": "^0.16.1"
+  }
+}
